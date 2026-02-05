@@ -1,0 +1,90 @@
+# 📅 Daily Log — {{DATE}}
+
+> Focus: ___________________________
+
+---
+
+## ✅ PHASE 1: LEARN (10:00 – 12:00)
+
+**Topic:** ___________________________
+
+- [ ] Theory understood
+- [ ] Code implemented
+- [ ] At least 1 problem solved
+- [ ] Notes created
+- [ ] Flashcards added
+
+**Key takeaway:**  
+> ___________________________________
+
+---
+
+## ✅ PHASE 2: PRACTICE
+
+### 🌅 Morning Revision (12:00 – 1:00)
+
+- [ ] Reinforcement problem solved  
+- [ ] Flashcards reviewed (≈20 cards)
+
+**Topic revised:** ____________________
+
+---
+
+### 🌇 Afternoon Practice (2:30 – 4:30)
+
+- [ ] DSA Problem 1: __________________ (Topic: __________)
+- [ ] DSA Problem 2: __________________ (Topic: __________)
+- [ ] Language practice: C++ / Python / Java / JavaScript
+- [ ] Code pushed to GitHub
+
+---
+
+## ✅ PHASE 3: BUILD (4:30 – 7:00)
+
+**Project name:** _____________________
+
+- [ ] Feature planned
+- [ ] Code implemented
+- [ ] Tested & debugged
+- [ ] Commit & push done
+- [ ] README / docs updated
+
+**Progress summary:**  
+> ___________________________________
+
+---
+
+## ✅ PHASE 4: EXECUTE (7:00 – 8:00)
+
+- [ ] College assignment: ___________________
+- [ ] Status: Pending / In Progress / Completed  
+**OR**
+- [ ] GitHub / LinkedIn update
+
+---
+
+## 📊 DAILY STATS
+
+- Study hours: ______
+- Problems solved: ______
+- Git commits: ______
+- New concept learned: Yes / No
+- Concept depth: Shallow / Medium / Deep
+- Energy level: Low / Medium / High
+
+---
+
+## 📝 REFLECTION
+
+**What went well:**  
+> ___________________________________
+
+**Challenges faced:**  
+> ___________________________________
+
+**Tomorrow’s top priority:**  
+> ___________________________________
+
+---
+
+✅ **Consistency > Perfection**
